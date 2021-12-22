@@ -13,6 +13,8 @@ Nav Home1 [**Navigate link1** ](https://nav.bajinxianshen.cf)
 
 Nav Home2 [**Navigate link2** ](https://nav.luxunxianshen.tk)  
 
+sunjoy.strikingly [**sunjoy.strikingly** ](https://joy.bajinxianshen.cf)  
+
 
 MD页内跳转(#1个空格 标题 末尾加1个空格)
 对于标题#Hello

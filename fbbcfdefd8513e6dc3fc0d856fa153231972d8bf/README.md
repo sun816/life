@@ -15,6 +15,8 @@ Nav Home1 [**Navigate link1** ](https://nav.bajinxianshen.cf)
 
 Nav Home2 [**Navigate link2** ](https://nav.luxunxianshen.tk)  
 
+Nav Home3 [**Navigate link2** ](https://nav.weweb.win)  
+
 sunjoy.strikingly [**sunjoy.strikingly** ](https://joy.bajinxianshen.cf)  
 
 
@@ -1056,6 +1058,10 @@ MD页内跳转(#1个空格 标题 末尾加1个空格)
 
 桂花芋艿
 
+2024年春：
+75/202402春天芋泥八宝饭，豆沙，红枣，瓜子片，莲子，金桔。韭菜肉沫水饺！
+
+76/202403 菠菜肉丝黄烧年糕，年糕煮后少量油，肉丝菠菜先半熟。
 
 
 202302：冰箱冷藏室: 酱瓜条，白醋萝卜条，泡椒，食都荟麻酱黄豆，海天锦上鲜，芝麻酱，甜面酱，干贝，老干妈，香肠，云南火腿，榨菜。
